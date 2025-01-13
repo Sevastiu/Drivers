@@ -16,12 +16,12 @@
 sudo insmod sleep_module.ko frequency=2 message="Hello, world!"
 ```
 
-###Команда выгрузки модуля:
+### Команда выгрузки модуля:
 
 ```
 sudo rmmod sleep_module
 ```
-###Команда просмотра сообщений ядра:
+### Команда просмотра сообщений ядра:
 ```
 sudo dmesg | tail -n 20
 ```
