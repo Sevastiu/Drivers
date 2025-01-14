@@ -72,5 +72,3 @@ sudo insmod reaction_time_analyzer.ko
 ```
 sudo rmmod reaction_time_analyzer
 ```
-
-```
